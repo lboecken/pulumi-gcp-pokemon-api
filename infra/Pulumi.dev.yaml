@@ -1,0 +1,3 @@
+config:
+  gcp:project: pokemon-api-355514
+  gcp:region: us-central1
